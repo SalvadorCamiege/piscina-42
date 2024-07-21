@@ -1,11 +1,5 @@
 #include <unistd.h>
 
-int main(){
-   ft_is_negative();    
-
-}
-
-
 void ft_is_negative(int n){
      char resp;
      if(n <= '0'){
